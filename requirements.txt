@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-multipart
+requests
+python-docx
+reportlab
+python-dotenv
